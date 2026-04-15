@@ -29,8 +29,7 @@
 
 ## 📂 Project Files  
 - `notebook_1.ipynb` : Full analysis (Jupyter / Colab)  
-- `EDA_Report.pdf`     : Professional PDF report  
-- `EDA_Report.html`    : Interactive HTML version  
+- `ds_Report.pdf`     : Professional PDF report  
 - `historical_data.csv`: Raw trading data  
 - `fear_greed_index.csv`: Daily sentiment scores  
 
