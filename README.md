@@ -37,7 +37,7 @@
 ---
 
 ## 🧭 How to Use  
-1. **Read** `EDA_Report.pdf` → Instant insights  
+1. **Read** `ds_Report.pdf` → Instant insights  
 2. **Run** `notebook_1.ipynb` in **Colab** → Reproduce everything  
 3. **Add your data** → Merge & analyze in minutes  
 
